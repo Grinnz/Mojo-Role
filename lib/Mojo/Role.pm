@@ -1,7 +1,5 @@
 package Mojo::Role;
 
-# ABSTRACT: Mojo::Role - Tiny and simple role system for Mojo
-
 # imports
 use Mojo::Base -strict;
 use Role::Tiny       ();
@@ -9,7 +7,7 @@ use Role::Tiny::With ();
 use Mojo::Util       ();
 
 # version
-our $VERSION = 0.022;
+our $VERSION = '0.999';
 
 sub import {
   # caller is a consumer, import with

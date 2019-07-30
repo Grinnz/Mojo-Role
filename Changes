@@ -1,0 +1,2 @@
+{{$NEXT}}
+  - Fixed tooling to avoid installing README.pod and example.pl
