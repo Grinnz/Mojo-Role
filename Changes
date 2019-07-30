@@ -1,2 +1,3 @@
 {{$NEXT}}
   - Fixed tooling to avoid installing README.pod and example.pl
+  - Deprecated distribution as it has been renamed to Mojo::RoleTiny
