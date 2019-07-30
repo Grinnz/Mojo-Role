@@ -7,7 +7,7 @@ use Role::Tiny::With ();
 use Mojo::Util       ();
 
 # version
-our $VERSION = '0.999';
+our $VERSION = '1.000';
 
 sub import {
   # caller is a consumer, import with
