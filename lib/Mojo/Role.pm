@@ -37,8 +37,9 @@ Mojo::Role - Tiny and simple role system for Mojo (DEPRECATED)
 
 =head1 DESCRIPTION
 
-This module has been renamed to L<Mojo::RoleTiny>. Instead of using it, you can
-now create roles using L<Mojo::Base> directly.
+This module has been renamed to L<Mojo::RoleTiny> and the namespace may be
+repurposed in the future. Instead of using it, you can now create roles using
+L<Mojo::Base> directly.
 
   # For a role class
   use Mojo::Base -role;
